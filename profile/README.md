@@ -2,7 +2,7 @@
 
 We create Bots [@BotStudios](https://github.com/botstudios) and awesome projects [@here](#)
 
-Check out all our projects down below 👇
+> Check out all our projects down below 👇
 
 ### Credit
 Please credit the author and the following repository if you feature any of our projects.
