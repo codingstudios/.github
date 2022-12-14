@@ -12,5 +12,5 @@ We create Bots [@BotStudios](https://github.com/botstudios) and awesome projects
 
 ### Credit
 Please credit the author and the following repository if you feature or use any of our projects.
-> Remember to leave a star 🌟 if you like any of our project !!
+> Remember to leave a star 🌟 if you like any of our projects !
 
