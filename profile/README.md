@@ -3,7 +3,8 @@
 We create Bots [@BotStudios](https://github.com/botstudios) and awesome projects [@here](#). Join our [Discord Server](https://discord.gg/Ty6nM6y3Ug) and hangout with us.
 
 > Check out all our projects down below 👇
-<sub>pss, why not draw us a [code bracket](https://github.com/CodingStudios/Code-Bracket)</sub>
+> 
+<sub>pss, you can draw us a [code bracket](https://github.com/CodingStudios/Code-Bracket)</sub>
 
 ### Authors
 - [@leecheeyong](https://github.com/leecheeyong)
