@@ -1,6 +1,6 @@
 ## Coding Studios
 
-We create Bots [@BotStudios](https://github.com/botstudios) and awesome projects [@here](#). Join our [Discord Server](https://discord.gg/Ty6nM6y3Ug) and hangout with us.
+Welcome to Coding Studios, we are the creators from [@BotStudios](https://github.com/botstudios). Join our [Discord Community](https://discord.gg/Ty6nM6y3Ug) and hangout with us.
 
 ### Authors
 - [@leecheeyong](https://github.com/leecheeyong)
