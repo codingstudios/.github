@@ -1,6 +1,6 @@
 ## Coding Studios
 
-We are the creators from [@BotStudios](https://github.com/botstudios) who are obsessed with exploring and creating open source projects. Do show some love by giving a star ⭐ to projects that you like.<br> We welcome you to join our [Discord Community](https://discord.gg/Ty6nM6y3Ug) and hangout with us.
+We are the creators from [@BotStudios](https://github.com/botstudios) who are obsessed with exploring and creating open source projects. Do show some love by giving a star ⭐ to projects that you like. We welcome you to join our [Discord Community](https://discord.gg/Ty6nM6y3Ug) and hangout with us.
 
 ### Authors
 - [@leecheeyong](https://github.com/leecheeyong)
