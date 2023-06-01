@@ -7,7 +7,6 @@ We create Bots [@BotStudios](https://github.com/botstudios) and awesome projects
 
 ### Authors
 - [@leecheeyong](https://github.com/leecheeyong)
-- [@joeleeofficial](https://github.com/joeleeofficial)
 - [@w3cy](https://github.com/w3cy)
 
 ### Credit
