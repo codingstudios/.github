@@ -7,6 +7,7 @@ We are the creators from [@BotStudios](https://github.com/botstudios) who are ob
 - [@w3cy](https://github.com/w3cy)
 
 
-<sub><a href="mailto:tojoeleeofficial@gmail.com">Contact Us</a></sub>
+<sub><a href="mailto:tojoeleeofficial@gmail.com">📧 contact us</a></sub>
+
 <sub>pss, you can draw us a [code bracket](https://github.com/CodingStudios/Code-Bracket)</sub>
 
